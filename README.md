@@ -1,7 +1,7 @@
 # 🤖 shinigami-system — WhatsApp Bot
 
 <p align="center">
-  <img src="<a href="https://ibb.co/G32L0jC0"><img src="https://i.ibb.co/BKZxtRTt/96-DE78-E1-B0-E6-47-AA-8-CDD-FD4-EC411-EB60.jpg" alt="96-DE78-E1-B0-E6-47-AA-8-CDD-FD4-EC411-EB60" border="0"></a>" alt="shinigami systeme " width="100%">
+  <img src="<<a href="https://ibb.co/cS7jKD9X"><img src="https://i.ibb.co/ksWtVQT6/F9-FDA513-4-AA8-48-D1-8399-E63-CC8374-CB5.png" alt="F9-FDA513-4-AA8-48-D1-8399-E63-CC8374-CB5" border="0"></a> border="0"></a>" alt="shinigami systeme " width="100%">
 </p>
 
 **shinigami bot** is a WhatsApp bot built with **Node.js and Baileys**.  
