@@ -1,7 +1,7 @@
 # 🤖 shinigami-system — WhatsApp Bot
 
 <p align="center">
-  <img src="<<a href="https://ibb.co/cS7jKD9X"><img src="https://i.ibb.co/ksWtVQT6/F9-FDA513-4-AA8-48-D1-8399-E63-CC8374-CB5.png" alt="F9-FDA513-4-AA8-48-D1-8399-E63-CC8374-CB5" border="0"></a> border="0"></a>" alt="shinigami systeme " width="100%">
+  <img src="<a href="https://ibb.co/G32L0jC0"><img src="https://i.ibb.co/BKZxtRTt/96-DE78-E1-B0-E6-47-AA-8-CDD-FD4-EC411-EB60.jpg" alt="96-DE78-E1-B0-E6-47-AA-8-CDD-FD4-EC411-EB60" border="0"></a>" alt="shinigami systeme " width="100%">
 </p>
 
 **shinigami bot** is a WhatsApp bot built with **Node.js and Baileys**.  
@@ -88,16 +88,16 @@ The user is responsible for using this bot in compliance with **WhatsApp’s Ter
 
 ## 👑 Author
 
-**KAYA TECH**  
-Creator of **KAYA-MD**
+**KIRA TECH**  
+Creator of **Kira-Dev**
 
 <p align="center">
-  <a href="https://www.youtube.com/@TECHword-1" target="_blank">
+  <a href="" target="_blank">
     <button style="padding:10px 18px;margin:5px;border:none;border-radius:8px;background:#ff0000;color:white;">
-      📺 YouTube
+      📺 DISCORD
     </button>
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb6FFPM002T3SKA6bb2D" target="_blank">
+  <a href="https://whatsapp.com/channel/0029Vb7WJzp84OmBD0fEEJ2X" target="_blank">
     <button style="padding:10px 18px;margin:5px;border:none;border-radius:8px;background:#25D366;color:white;">
       📲 WhatsApp Channel
     </button>
