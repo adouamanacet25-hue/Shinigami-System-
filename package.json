@@ -12,7 +12,7 @@
     "restart": "node --max-old-space-size=4096 index.js",
     "dev": "nodemon index.js"
   },
-  "author": "Kaya Tech",
+  "author": "kira Tech",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys": "^7.0.0-rc.6",
